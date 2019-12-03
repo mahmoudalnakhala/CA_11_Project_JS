@@ -1,6 +1,5 @@
 const container = document.createElement('div');
 const gridSizeBtn = document.createElement('button');
-const randomColorBtn = document.createElement('button');
 const clearBtn = document.createElement('button');
 
 let gridSize = 16;
